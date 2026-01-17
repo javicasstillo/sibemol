@@ -1,0 +1,19 @@
+.portada{
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ),url("../assets/banner.jpg");
+
+    background-position: center;
+    background-size: cover;
+
+}
+
+.altura{
+    min-height: 40vh;
+}
+
+.icono{
+    font-size: 10rem;
+}
