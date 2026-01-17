@@ -17,3 +17,10 @@
 .icono{
     font-size: 10rem;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+    width: 3rem;
+    height: 3rem;
+}
