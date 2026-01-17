@@ -27,6 +27,11 @@
     font-family: "BebasNeue";
 }
 
+.marca2{
+    font-family: "BebasNeue";
+    font-size: 7rem;
+}
+
 @keyframes parpadeo {
     0% {
         opacity: 1;
@@ -51,6 +56,10 @@
     min-height: 80vh;
 }
 
+.poneraltura3{
+    min-height: 60vh;
+}
+
 
 
 @media (max-width: 767.98px) {
@@ -63,8 +72,5 @@
     .poneraltura2{
     min-height: none;
 }
-
-
 }
-
 
