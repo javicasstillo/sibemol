@@ -42,3 +42,9 @@
 .icono-parpadeo {
     animation: parpadeo 1.5s infinite;
 }
+
+@media (max-width: 767.98px) {
+    .altura {
+        min-height: 70vh;
+    }
+}
