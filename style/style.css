@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
 .portada{
     background-image:
         linear-gradient(
@@ -16,4 +21,24 @@
 
 .icono{
     font-size: 10rem;
+}
+
+.marca{
+    font-family: "BebasNeue";
+}
+
+@keyframes parpadeo {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.icono-parpadeo {
+    animation: parpadeo 1.5s infinite;
 }
