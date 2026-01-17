@@ -19,17 +19,13 @@
     min-height: 40vh;
 }
 
-.icono{
-    font-size: 10rem;
-}
-
 .marca{
     font-family: "BebasNeue";
 }
 
 .marca2{
     font-family: "BebasNeue";
-    font-size: 7rem;
+    font-size: 4rem;
 }
 
 @keyframes parpadeo {
